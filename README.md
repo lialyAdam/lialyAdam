@@ -1,4 +1,5 @@
 - 👋 Hi, I’m lialyAdam
+- software engineering
 - 👀 I’m interested in frontend and backend
 - 🌱 I’m currently learning asp.net
 - 📫lialadamawad@gmail.com
